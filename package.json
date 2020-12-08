@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/briankoser/load-goodreads-to-fauna#readme",
   "dependencies": {
-    "goodreads-api-node": "0.0.12"
+    "sosoreads": "^0.1.0"
   }
 }
