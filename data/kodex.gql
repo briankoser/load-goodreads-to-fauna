@@ -1,0 +1,98 @@
+enum ShelfScope {
+    BOOK,
+    USER
+}
+
+type Author {
+    books: [Book!]!,
+    name: String!,
+    series: [Series!]!,
+    dateBorn: Date,
+    dateDied: Date,
+    gender: String,
+    goodreadsAverageRating: String,
+    goodreadsId: String,
+    goodreadsRatingsCount: Int
+    goodreadsUrl: String
+}
+
+type Book {
+    authors: [Author!]!,
+    series: [BookSeries!]!,
+    title: String!,
+    descriptionFull: String!,
+    descriptionShort: String,
+    goodreadsId: String,
+    goodreadsRatingsAverage: String,
+    goodreadsRatingsCount: Int,
+    goodreadsRatingsDistributionFive: Int!,
+    goodreadsRatingsDistributionFour: Int!,
+    goodreadsRatingsDistributionThree: Int!,
+    goodreadsRatingsDistributionTwo: Int!,
+    goodreadsRatingsDistributionOne: Int!,
+    goodreadsUrl: String,
+    imageLarge: String,
+    imageSmall: String,
+    isbn: String,
+    isbn13: String,
+    pageCount: Int,
+    publicationYear: String
+}
+
+type BookSeries {
+    books: [Book!]!,
+    position: Int!,
+    series: Series!
+}
+
+type Review {
+    isSpoiler: Boolean!,   
+    userBook: UserBook!,
+    body: String,
+    dateAdded: Time,
+    dateEnded: Time,
+    dateStarted: Time,
+    dateUpdated: Time,
+    goodreadsId: String,
+    goodreadsUrl: String,
+    rating: Int
+}
+
+type Series {
+    author: [Author!]!,
+    title: String!,
+    description: String,
+    goodreadsId: String
+}
+
+type Shelf {
+    name: String!,
+    reviews: [Review!]!,
+    type: ShelfType!,
+    userBooks: [UserBook!]!,
+    goodreadsId: String
+}
+
+type ShelfType {
+    name: String!,
+    scope: ShelfScope!
+}
+
+type User {
+    id: Int!,
+    nameDisplay: String!,
+    nameFull: String!,
+    goodreadsId: String,
+    goodreadsUrl: String
+}
+
+type UserBook {
+    book: Book!,
+    shelves: [Shelf!]!,
+    user: User!
+}
+
+type Query {
+   allReviews: [Review!]!
+   reviewsByDateUpdated(dateUpdated: Time!): [Review!]!
+}
