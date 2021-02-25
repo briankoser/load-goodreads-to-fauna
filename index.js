@@ -5,8 +5,8 @@ const faunadb = require('faunadb'),
 
 
 // constants
-const faunaDbSecret = 'fnAD8lIbHwACDIXYmWYaivDsaYX_Idk5R1CPBUao';
-const goodreadsDeveloperKey = '2kYIBVxcqaN4mdfclzwVQ';
+const faunaDbSecret = '';
+const goodreadsDeveloperKey = '';
 const pageSize = 3;
 const userIds = ['4812558'];
 
