@@ -19,6 +19,7 @@ type Author {
 type Book {
     authors: [Author!]!,
     series: [BookSeries!]!,
+    shelves: [Shelf!]!,
     title: String!,
     descriptionFull: String!,
     descriptionShort: String,
@@ -39,10 +40,22 @@ type Book {
     publicationYear: String
 }
 
+type BookList {
+    book: Book!,
+    position: Int!,
+    list: List!
+}
+
 type BookSeries {
-    books: [Book!]!,
+    book: Book!,
     position: Int!,
     series: Series!
+}
+
+type List {
+    id: Int!,
+    title: String!,
+    description: String
 }
 
 type Review {
@@ -66,8 +79,8 @@ type Series {
 }
 
 type Shelf {
+    books: [Book!]!,
     name: String!,
-    reviews: [Review!]!,
     type: ShelfType!,
     userBooks: [UserBook!]!,
     goodreadsId: String
@@ -94,5 +107,7 @@ type UserBook {
 
 type Query {
    allReviews: [Review!]!
+   shelvesByGoodreadsId(goodreadsId: String): [Shelf!]!
+   shelvesByType(type: ShelfType): [Shelf!]!
    reviewsByDateUpdated(dateUpdated: Time!): [Review!]!
 }

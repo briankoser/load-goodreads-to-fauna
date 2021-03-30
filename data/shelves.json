@@ -1,630 +1,630 @@
 [{
-    "goodreadsId": "223525462",
-    "name": "pastiche",
-    "type": Book
-},
-{
     "goodreadsId": "213609986",
     "name": "sports",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "215368387",
     "name": "politics",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "298008748",
     "name": "novella",
-    "type": Format
+    "type": "Format"
 },
 {
     "goodreadsId": "218074131",
     "name": "language",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "214284479",
     "name": "historical-fiction",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "178343919",
     "name": "classics",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "177698908",
     "name": "used-to-own",
-    "type": Owner
+    "type": "Owner"
 },
 {
     "goodreadsId": "401320609",
     "name": "us-president-bios",
-    "type": Challenge
+    "type": "Challenge"
 },
 {
     "goodreadsId": "213633192",
     "name": "trivia-or-general-knowledge",
-    "type": Genre
-},
-{
-    "goodreadsId": "223525656",
-    "name": "time-travel",
-    "type": Book
+    "type": "Genre"
 },
 {
     "goodreadsId": "394032403",
     "name": "thriller",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "215835395",
     "name": "technology",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "215867876",
     "name": "theology",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "215468774",
     "name": "star-wars",
-    "type": Book
+    "type": "Book"
 },
 {
     "goodreadsId": "215365663",
     "name": "star-trek",
-    "type": Book
+    "type": "Book"
 },
 {
     "goodreadsId": "215831580",
     "name": "short-story-collection",
-    "type": Format
+    "type": "Format"
 },
 {
     "goodreadsId": "215867394",
     "name": "sherlock-holmes",
-    "type": Book
+    "type": "Book"
 },
 {
     "goodreadsId": "223526537",
     "name": "secret-history",
-    "type": Book
+    "type": "Book"
 },
 {
     "goodreadsId": "214261260",
     "name": "science",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "214503222",
     "name": "sci-fi",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "217281515",
     "name": "religion",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "215835880",
     "name": "reference",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "213527074",
     "name": "school",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "212773651",
     "name": "received-as-gift",
-    "type": Book
+    "type": "Book"
 },
 {
     "goodreadsId": "214264163",
     "name": "poetry",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "308180236",
     "name": "play",
-    "type": Format
+    "type": "Format"
 },
 {
     "goodreadsId": "218281035",
     "name": "philosophy",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "223526504",
     "name": "parallel-universe",
-    "type": Book
+    "type": "Book"
 },
 {
     "goodreadsId": "401986276",
     "name": "own-paper",
-    "type": Owner
+    "type": "Owner"
 },
 {
     "goodreadsId": "401986321",
     "name": "own-ebook",
-    "type": Owner
+    "type": "Owner"
 },
 {
     "goodreadsId": "401986308",
     "name": "own-audio",
-    "type": Owner
+    "type": "Owner"
 },
 {
     "goodreadsId": "15447015",
     "name": "own",
-    "type": Owner
+    "type": "Owner"
 },
 {
     "goodreadsId": "178374250",
     "name": "non-fiction",
-    "type": Book
+    "type": "Book"
 },
 {
     "goodreadsId": "214401818",
     "name": "newspaper-comics",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "213473323",
     "name": "mystery",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "218074284",
     "name": "music",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "217287636",
     "name": "math",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "215747068",
     "name": "marvel",
-    "type": Book
+    "type": "Book"
 },
 {
     "goodreadsId": "216779744",
     "name": "marriage",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "223526484",
     "name": "immortals",
-    "type": Book
+    "type": "Book"
 },
 {
     "goodreadsId": "214394572",
     "name": "humor",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "260907918",
     "name": "hugo-winner",
-    "type": Award
+    "type": "Award"
 },
 {
     "goodreadsId": "371788885",
     "name": "how-to",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "260908130",
     "name": "hugo-nominee",
-    "type": Award
+    "type": "Award"
 },
 {
     "goodreadsId": "214185224",
     "name": "horror",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "214294778",
     "name": "history",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "215747057",
     "name": "graphic-novel",
-    "type": Format
+    "type": "Format"
 },
 {
     "goodreadsId": "215470406",
     "name": "games",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "213473141",
     "name": "fiction",
-    "type": Book
+    "type": "Book"
 },
 {
     "goodreadsId": "219217614",
     "name": "financial",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "214502981",
     "name": "fantasy",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "354440751",
     "name": "education",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "215755547",
     "name": "dc",
-    "type": Book
+    "type": "Book"
 },
 {
     "goodreadsId": "223525642",
     "name": "crossover",
-    "type": Book
+    "type": "Book"
 },
 {
     "goodreadsId": "215866107",
     "name": "biography",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "214261279",
     "name": "bible",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "217979013",
     "name": "alternate-history",
-    "type": Book
+    "type": "Book"
 },
 {
     "goodreadsId": "213522818",
     "name": "adventure",
-    "type": Genre
+    "type": "Genre"
 },
 {
     "goodreadsId": "302308344",
     "name": "372-pages",
-    "type": Book
+    "type": "Book"
 },
 {
     "goodreadsId": "422065540",
     "name": "next-in-series",
-    "type": User
+    "type": "User"
 },
 {
     "goodreadsId": "203051526",
     "name": "new-authors-read-2016",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "203409786",
     "name": "to-read-with-melissa",
-    "type": User
+    "type": "User"
 },
 {
     "goodreadsId": "227720808",
     "name": "watched-the-movie",
-    "type": User
+    "type": "User"
 },
 {
     "goodreadsId": "275147539",
     "name": "to-reread",
-    "type": User
+    "type": "User"
 },
 {
     "goodreadsId": "217382370",
     "name": "new-authors-read-2012",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "216776022",
     "name": "new-authors-read-2009",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "213500812",
     "name": "new-authors-read-1997",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "207727264",
     "name": "first-read-2017",
-    "type": FirstReadYear
+    "type": "FirstReadYear"
 },
 {
     "goodreadsId": "216775833",
     "name": "first-read-2009",
-    "type": FirstReadYear
+    "type": "FirstReadYear"
 },
 {
     "goodreadsId": "215261041",
     "name": "first-read-2002",
-    "type": FirstReadYear
+    "type": "FirstReadYear"
 },
 {
     "goodreadsId": "213527063",
     "name": "first-read-1996",
-    "type": FirstReadYear
+    "type": "FirstReadYear"
 },
 {
     "goodreadsId": "315992374",
     "name": "did-not-finish-2019",
-    "type": DidNotFinishYear
+    "type": "DidNotFinishYear"
 },
 {
     "goodreadsId": "350589097",
     "name": "100-books-2020",
-    "type": User
+    "type": "User"
 },
 {
     "goodreadsId": "15377251",
     "name": "read",
-    "type": ReadStatus
+    "type": "ReadStatus"
 },
 {
     "goodreadsId": "305329008",
     "name": "should-have-been-a-short-story",
-    "type": User
+    "type": "User"
 },
 {
     "goodreadsId": "216778579",
     "name": "new-authors-read-2011",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "203051306",
     "name": "new-authors-read-2015",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "215472153",
     "name": "best-summary-opening-sentences",
-    "type": User
+    "type": "User"
 },
 {
     "goodreadsId": "15377249",
     "name": "to-read",
-    "type": ReadStatus
+    "type": "ReadStatus"
 },
 {
     "goodreadsId": "202947117",
     "name": "quotes",
-    "type": User
+    "type": "User"
 },
 {
     "goodreadsId": "214246026",
     "name": "summary-was-sufficient",
-    "type": User
+    "type": "User"
 },
 {
     "goodreadsId": "186707459",
     "name": "read-with-children",
-    "type": User
+    "type": "User"
 },
 {
     "goodreadsId": "298008987",
     "name": "read-2019",
-    "type": ReadYear
+    "type": "ReadYear"
+},
+{
+    "goodreadsId": "423131903",
+    "name": "read-2021",
+    "type": "ReadYear"
 },
 {
     "goodreadsId": "350589287",
     "name": "new-authors-read-2020",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "207727289",
     "name": "new-authors-read-2017",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "216777212",
     "name": "new-authors-read-2010",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "215862657",
     "name": "new-authors-read-2004",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "214395608",
     "name": "new-authors-read-2001",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "213609932",
     "name": "new-authors-read-1998",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "218079355",
     "name": "new-authors-read-1996",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "249641191",
     "name": "first-read-2018",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "217949599",
     "name": "first-read-2013",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "216777173",
     "name": "first-read-2010",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "216283346",
     "name": "first-read-2007",
-    "type": FirstReadYear
+    "type": "FirstReadYear"
 },
 {
     "goodreadsId": "215862609",
     "name": "first-read-2004",
-    "type": FirstReadYear
+    "type": "FirstReadYear"
 },
 {
     "goodreadsId": "214395473",
     "name": "first-read-2001",
-    "type": FirstReadYear
+    "type": "FirstReadYear"
 },
 {
     "goodreadsId": "203056271",
     "name": "favorites",
-    "type": User
+    "type": "User"
 },
 {
     "goodreadsId": "373864589",
     "name": "did-not-finish-2020",
-    "type": DidNotFinishYear
+    "type": "DidNotFinishYear"
 },
 {
     "goodreadsId": "252926713",
     "name": "did-not-finish-2016",
-    "type": DidNotFinishYear
+    "type": "DidNotFinishYear"
 },
 {
     "goodreadsId": "233365088",
     "name": "best-of-year-published",
-    "type": User
+    "type": "User"
 },
 {
     "goodreadsId": "208010622",
     "name": "to-read-with-children",
-    "type": User
+    "type": "User"
 },
 {
     "goodreadsId": "204688325",
     "name": "read-with-melissa",
-    "type": User
+    "type": "User"
 },
 {
     "goodreadsId": "271799522",
     "name": "to-buy",
-    "type": User
+    "type": "User"
 },
 {
     "goodreadsId": "350589241",
     "name": "read-2020",
-    "type": ReadYear
+    "type": "ReadYear"
 },
 {
     "goodreadsId": "214293293",
     "name": "read-2016",
-    "type": ReadYear
+    "type": "ReadYear"
 },
 {
     "goodreadsId": "214293725",
     "name": "read-2017",
-    "type": ReadYear
+    "type": "ReadYear"
 },
 {
     "goodreadsId": "249641302",
     "name": "read-2018",
-    "type": ReadYear
+    "type": "ReadYear"
 },
 {
     "goodreadsId": "223183595",
     "name": "on-deck",
-    "type": User
+    "type": "User"
 },
 {
     "goodreadsId": "218855434",
     "name": "read-2015",
-    "type": ReadYear
+    "type": "ReadYear"
 },
 {
     "goodreadsId": "302308407",
     "name": "new-authors-read-2019",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "249641248",
     "name": "new-authors-read-2018",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "217975277",
     "name": "new-authors-read-2014",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "217949637",
     "name": "new-authors-read-2013",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "216545696",
     "name": "new-authors-read-2008",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "216284113",
     "name": "new-authors-read-2007",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "216176613",
     "name": "new-authors-read-2006",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "215569443",
     "name": "new-authors-read-2003",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "215969233",
     "name": "new-authors-read-2005",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "215261049",
     "name": "new-authors-read-2002",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "214381384",
     "name": "new-authors-read-2000",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "214371576",
     "name": "new-authors-read-1999",
-    "type": NewAuthorsYear
+    "type": "NewAuthorsYear"
 },
 {
     "goodreadsId": "214289476",
     "name": "hundredth",
-    "type": User
+    "type": "User"
+},
+{
+    "goodreadsId": "423131852",
+    "name": "first-read-2021",
+    "type": "FirstReadYear"
 },
 {
     "goodreadsId": "350589224",
     "name": "first-read-2020",
-    "type": FirstReadYear
+    "type": "FirstReadYear"
 },
 {
     "goodreadsId": "298008825",
     "name": "first-read-2019",
-    "type": FirstReadYear
+    "type": "FirstReadYear"
 },
 {
-  "goodreadsId": "",
-  "name": "new-authors-read-2021",
-  "type": NewAuthorsYear
+    "goodreadsId": "426718559",
+    "name": "new-authors-read-2021",
+    "type": "NewAuthorsYear"
 }]

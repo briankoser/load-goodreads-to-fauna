@@ -18,6 +18,6 @@
   "homepage": "https://github.com/briankoser/load-goodreads-to-fauna#readme",
   "dependencies": {
     "faunadb": "^4.0.0",
-    "sosoreads": "^0.1.0"
+    "sosoreads": "^0.1.1"
   }
 }
