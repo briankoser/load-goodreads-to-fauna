@@ -1,721 +1,721 @@
 [{
     "goodreadsId": "213609986",
     "name": "sports",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "215368387",
     "name": "politics",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "298008748",
     "name": "novella",
-    "type": Ref(Collection("ShelfType"), "291540015469566473")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469566473")
 },
 {
     "goodreadsId": "218074131",
     "name": "language",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "214284479",
     "name": "historical-fiction",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "178343919",
     "name": "classics",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "177698908",
     "name": "used-to-own",
-    "type": Ref(Collection("ShelfType"), "291540015469571593")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469571593")
 },
 {
     "goodreadsId": "401320609",
     "name": "us-president-bios",
-    "type": Ref(Collection("ShelfType"), "291540015469570569")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469570569")
 },
 {
     "goodreadsId": "213633192",
     "name": "trivia-or-general-knowledge",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "394032403",
     "name": "thriller",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "215835395",
     "name": "technology",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "215867876",
     "name": "theology",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "215468774",
     "name": "star-wars",
-    "type": Ref(Collection("ShelfType"), "291540015469561353")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469561353")
 },
 {
     "goodreadsId": "215365663",
     "name": "star-trek",
-    "type": Ref(Collection("ShelfType"), "291540015469561353")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469561353")
 },
 {
     "goodreadsId": "215831580",
     "name": "short-story-collection",
-    "type": Ref(Collection("ShelfType"), "291540015469566473")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469566473")
 },
 {
     "goodreadsId": "215867394",
     "name": "sherlock-holmes",
-    "type": Ref(Collection("ShelfType"), "291540015469561353")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469561353")
 },
 {
     "goodreadsId": "223526537",
     "name": "secret-history",
-    "type": Ref(Collection("ShelfType"), "291540015469561353")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469561353")
 },
 {
     "goodreadsId": "214261260",
     "name": "science",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "214503222",
     "name": "sci-fi",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "217281515",
     "name": "religion",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "215835880",
     "name": "reference",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "213527074",
     "name": "school",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "212773651",
     "name": "received-as-gift",
-    "type": Ref(Collection("ShelfType"), "291540015469561353")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469561353")
 },
 {
     "goodreadsId": "214264163",
     "name": "poetry",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "308180236",
     "name": "play",
-    "type": Ref(Collection("ShelfType"), "291540015469566473")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469566473")
 },
 {
     "goodreadsId": "218281035",
     "name": "philosophy",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "223526504",
     "name": "parallel-universe",
-    "type": Ref(Collection("ShelfType"), "291540015469561353")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469561353")
 },
 {
     "goodreadsId": "401986276",
     "name": "own-paper",
-    "type": Ref(Collection("ShelfType"), "291540015469571593")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469571593")
 },
 {
     "goodreadsId": "401986321",
     "name": "own-ebook",
-    "type": Ref(Collection("ShelfType"), "291540015469571593")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469571593")
 },
 {
     "goodreadsId": "401986308",
     "name": "own-audio",
-    "type": Ref(Collection("ShelfType"), "291540015469571593")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469571593")
 },
 {
     "goodreadsId": "15447015",
     "name": "own",
-    "type": Ref(Collection("ShelfType"), "291540015469571593")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469571593")
 },
 {
     "goodreadsId": "178374250",
     "name": "non-fiction",
-    "type": Ref(Collection("ShelfType"), "291540015469561353")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469561353")
 },
 {
     "goodreadsId": "214401818",
     "name": "newspaper-comics",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "213473323",
     "name": "mystery",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "218074284",
     "name": "music",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "217287636",
     "name": "math",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "215747068",
     "name": "marvel",
-    "type": Ref(Collection("ShelfType"), "291540015469561353")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469561353")
 },
 {
     "goodreadsId": "216779744",
     "name": "marriage",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "223526484",
     "name": "immortals",
-    "type": Ref(Collection("ShelfType"), "291540015469561353")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469561353")
 },
 {
     "goodreadsId": "214394572",
     "name": "humor",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "260907918",
     "name": "hugo-winner",
-    "type": Ref(Collection("ShelfType"), "291540015469569545")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469569545")
 },
 {
     "goodreadsId": "371788885",
     "name": "how-to",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "260908130",
     "name": "hugo-nominee",
-    "type": Ref(Collection("ShelfType"), "291540015469569545")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469569545")
 },
 {
     "goodreadsId": "214185224",
     "name": "horror",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "214294778",
     "name": "history",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "215747057",
     "name": "graphic-novel",
-    "type": Ref(Collection("ShelfType"), "291540015469566473")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469566473")
 },
 {
     "goodreadsId": "215470406",
     "name": "games",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "213473141",
     "name": "fiction",
-    "type": Ref(Collection("ShelfType"), "291540015469561353")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469561353")
 },
 {
     "goodreadsId": "219217614",
     "name": "financial",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "214502981",
     "name": "fantasy",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "354440751",
     "name": "education",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "215755547",
     "name": "dc",
-    "type": Ref(Collection("ShelfType"), "291540015469561353")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469561353")
 },
 {
     "goodreadsId": "223525642",
     "name": "crossover",
-    "type": Ref(Collection("ShelfType"), "291540015469561353")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469561353")
 },
 {
     "goodreadsId": "215866107",
     "name": "biography",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "214261279",
     "name": "bible",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "217979013",
     "name": "alternate-history",
-    "type": Ref(Collection("ShelfType"), "291540015469561353")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469561353")
 },
 {
     "goodreadsId": "213522818",
     "name": "adventure",
-    "type": Ref(Collection("ShelfType"), "291540015469563401")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469563401")
 },
 {
     "goodreadsId": "302308344",
     "name": "372-pages",
-    "type": Ref(Collection("ShelfType"), "291540015469561353")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469561353")
 },
 {
     "goodreadsId": "422065540",
     "name": "next-in-series",
-    "type": Ref(Collection("ShelfType"), "291540015469565449")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469565449")
 },
 {
     "goodreadsId": "203051526",
     "name": "new-authors-read-2016",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "203409786",
     "name": "to-read-with-melissa",
-    "type": Ref(Collection("ShelfType"), "291540015469565449")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469565449")
 },
 {
     "goodreadsId": "227720808",
     "name": "watched-the-movie",
-    "type": Ref(Collection("ShelfType"), "291540015469565449")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469565449")
 },
 {
     "goodreadsId": "275147539",
     "name": "to-reread",
-    "type": Ref(Collection("ShelfType"), "291540015469565449")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469565449")
 },
 {
     "goodreadsId": "217382370",
     "name": "new-authors-read-2012",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "216776022",
     "name": "new-authors-read-2009",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "213500812",
     "name": "new-authors-read-1997",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "350589097",
     "name": "100-books-2020",
-    "type": Ref(Collection("ShelfType"), "291540015469565449")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469565449")
 },
 {
     "goodreadsId": "15377251",
     "name": "read",
-    "type": Ref(Collection("ShelfType"), "291540015469564425")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469564425")
 },
 {
     "goodreadsId": "305329008",
     "name": "should-have-been-a-short-story",
-    "type": Ref(Collection("ShelfType"), "291540015469565449")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469565449")
 },
 {
     "goodreadsId": "216778579",
     "name": "new-authors-read-2011",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "203051306",
     "name": "new-authors-read-2015",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "215472153",
     "name": "best-summary-opening-sentences",
-    "type": Ref(Collection("ShelfType"), "291540015469565449")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469565449")
 },
 {
     "goodreadsId": "15377249",
     "name": "to-read",
-    "type": Ref(Collection("ShelfType"), "291540015469564425")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469564425")
 },
 {
     "goodreadsId": "202947117",
     "name": "quotes",
-    "type": Ref(Collection("ShelfType"), "291540015469565449")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469565449")
 },
 {
     "goodreadsId": "214246026",
     "name": "summary-was-sufficient",
-    "type": Ref(Collection("ShelfType"), "291540015469565449")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469565449")
 },
 {
     "goodreadsId": "186707459",
     "name": "read-with-children",
-    "type": Ref(Collection("ShelfType"), "291540015469565449")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469565449")
 },
 {
     "goodreadsId": "298008987",
     "name": "read-2019",
-    "type": Ref(Collection("ShelfType"), "291540015469567497")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469567497")
 },
 {
     "goodreadsId": "423131903",
     "name": "read-2021",
-    "type": Ref(Collection("ShelfType"), "291540015469567497")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469567497")
 },
 {
     "goodreadsId": "350589287",
     "name": "new-authors-read-2020",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "207727289",
     "name": "new-authors-read-2017",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "216777212",
     "name": "new-authors-read-2010",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "215862657",
     "name": "new-authors-read-2004",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "214395608",
     "name": "new-authors-read-2001",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "213609932",
     "name": "new-authors-read-1998",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "218079355",
     "name": "new-authors-read-1996",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "203056271",
     "name": "favorites",
-    "type": Ref(Collection("ShelfType"), "291540015469565449")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469565449")
 },
 {
     "goodreadsId": "233365088",
     "name": "best-of-year-published",
-    "type": Ref(Collection("ShelfType"), "291540015469565449")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469565449")
 },
 {
     "goodreadsId": "208010622",
     "name": "to-read-with-children",
-    "type": Ref(Collection("ShelfType"), "291540015469565449")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469565449")
 },
 {
     "goodreadsId": "204688325",
     "name": "read-with-melissa",
-    "type": Ref(Collection("ShelfType"), "291540015469565449")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469565449")
 },
 {
     "goodreadsId": "271799522",
     "name": "to-buy",
-    "type": Ref(Collection("ShelfType"), "291540015469565449")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469565449")
 },
 {
     "goodreadsId": "350589241",
     "name": "read-2020",
-    "type": Ref(Collection("ShelfType"), "291540015469567497")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469567497")
 },
 {
     "goodreadsId": "214293293",
     "name": "read-2016",
-    "type": Ref(Collection("ShelfType"), "291540015469567497")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469567497")
 },
 {
     "goodreadsId": "214293725",
     "name": "read-2017",
-    "type": Ref(Collection("ShelfType"), "291540015469567497")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469567497")
 },
 {
     "goodreadsId": "249641302",
     "name": "read-2018",
-    "type": Ref(Collection("ShelfType"), "291540015469567497")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469567497")
 },
 {
     "goodreadsId": "223183595",
     "name": "on-deck",
-    "type": Ref(Collection("ShelfType"), "291540015469565449")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469565449")
 },
 {
     "goodreadsId": "218855434",
     "name": "read-2015",
-    "type": Ref(Collection("ShelfType"), "291540015469567497")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469567497")
 },
 {
     "goodreadsId": "302308407",
     "name": "new-authors-read-2019",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "249641248",
     "name": "new-authors-read-2018",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "217975277",
     "name": "new-authors-read-2014",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "217949637",
     "name": "new-authors-read-2013",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "216545696",
     "name": "new-authors-read-2008",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "216284113",
     "name": "new-authors-read-2007",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "216176613",
     "name": "new-authors-read-2006",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "215569443",
     "name": "new-authors-read-2003",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "215969233",
     "name": "new-authors-read-2005",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "215261049",
     "name": "new-authors-read-2002",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "214381384",
     "name": "new-authors-read-2000",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "214371576",
     "name": "new-authors-read-1999",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "214289476",
     "name": "hundredth",
-    "type": Ref(Collection("ShelfType"), "291540015469565449")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469565449")
 },
 {
     "goodreadsId": "423131852",
     "name": "first-read-2021",
-    "type": Ref(Collection("ShelfType"), "291540015469568521")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469568521")
 },
 {
     "goodreadsId": "350589224",
     "name": "first-read-2020",
-    "type": Ref(Collection("ShelfType"), "291540015469568521")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469568521")
 },
 {
     "goodreadsId": "298008825",
     "name": "first-read-2019",
-    "type": Ref(Collection("ShelfType"), "291540015469568521")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469568521")
 },
 {
     "goodreadsId": "426718559",
     "name": "new-authors-read-2021",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "252926713",
     "name": "did-not-finish-2016",
-    "type": Ref(Collection("ShelfType"), "291540015469562377")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469562377")
 },
 {
     "goodreadsId": "252926743",
     "name": "did-not-finish-2017",
-    "type": Ref(Collection("ShelfType"), "291540015469562377")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469562377")
 },
 {
     "goodreadsId": "252926753",
     "name": "did-not-finish-2018",
-    "type": Ref(Collection("ShelfType"), "291540015469562377")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469562377")
 },
 {
     "goodreadsId": "315992374",
     "name": "did-not-finish-2019",
-    "type": Ref(Collection("ShelfType"), "291540015469562377")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469562377")
 },
 {
     "goodreadsId": "373864589",
     "name": "did-not-finish-2020",
-    "type": Ref(Collection("ShelfType"), "291540015469562377")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469562377")
 },
 {
     "goodreadsId": "213527063",
     "name": "first-read-1996",
-    "type": Ref(Collection("ShelfType"), "291540015469568521")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469568521")
 },
 {
     "goodreadsId": "213473155",
     "name": "first-read-1997",
-    "type": Ref(Collection("ShelfType"), "291540015469568521")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469568521")
 },
 {
     "goodreadsId": "213527273",
     "name": "first-read-1998",
-    "type": Ref(Collection("ShelfType"), "291540015469568521")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469568521")
 },
 {
     "goodreadsId": "213527277",
     "name": "first-read-1999",
-    "type": Ref(Collection("ShelfType"), "291540015469568521")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469568521")
 },
 {
     "goodreadsId": "214381365",
     "name": "first-read-2000",
-    "type": Ref(Collection("ShelfType"), "291540015469568521")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469568521")
 },
 {
     "goodreadsId": "214395473",
     "name": "first-read-2001",
-    "type": Ref(Collection("ShelfType"), "291540015469568521")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469568521")
 },
 {
     "goodreadsId": "215261041",
     "name": "first-read-2002",
-    "type": Ref(Collection("ShelfType"), "291540015469568521")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469568521")
 },
 {
     "goodreadsId": "215569421",
     "name": "first-read-2003",
-    "type": Ref(Collection("ShelfType"), "291540015469568521")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469568521")
 },
 {
     "goodreadsId": "215862609",
     "name": "first-read-2004",
-    "type": Ref(Collection("ShelfType"), "291540015469568521")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469568521")
 },
 {
     "goodreadsId": "215969198",
     "name": "first-read-2005",
-    "type": Ref(Collection("ShelfType"), "291540015469568521")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469568521")
 },
 {
     "goodreadsId": "216176578",
     "name": "first-read-2006",
-    "type": Ref(Collection("ShelfType"), "291540015469568521")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469568521")
 },
 {
     "goodreadsId": "216283346",
     "name": "first-read-2007",
-    "type": Ref(Collection("ShelfType"), "291540015469568521")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469568521")
 },
 {
     "goodreadsId": "216545641",
     "name": "first-read-2008",
-    "type": Ref(Collection("ShelfType"), "291540015469568521")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469568521")
 },
 {
     "goodreadsId": "216775833",
     "name": "first-read-2009",
-    "type": Ref(Collection("ShelfType"), "291540015469568521")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469568521")
 },
 {
     "goodreadsId": "216777173",
     "name": "first-read-2010",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "216778572",
     "name": "first-read-2011",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "217382361",
     "name": "first-read-2012",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "217949599",
     "name": "first-read-2013",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "217975264",
     "name": "first-read-2014",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "131249441",
     "name": "first-read-2015",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "168814714",
     "name": "first-read-2016",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "207727264",
     "name": "first-read-2017",
-    "type": Ref(Collection("ShelfType"), "291540015469568521")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469568521")
 },
 {
     "goodreadsId": "249641191",
     "name": "first-read-2018",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "298008825",
     "name": "first-read-2019",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "350589224",
     "name": "first-read-2020",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
 },
 {
     "goodreadsId": "423131852",
     "name": "first-read-2021",
-    "type": Ref(Collection("ShelfType"), "291540015469560329")
-},
+    "typeRef": Ref(Collection("ShelfType"), "291540015469560329")
+}
 ]

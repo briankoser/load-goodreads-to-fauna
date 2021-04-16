@@ -5,7 +5,8 @@ Will run in an AWS Lambda function for kodex.
 
 All Goodreads shelves are saved as reviewTags; creating a bookTag is a manual process.
 
-## Loading FaunaDB manually example
+## Examples
+### Creating collection
 ```
 Map(
     [{
@@ -19,5 +20,13 @@ Map(
         { data: Var('shelf_type') },
       )
     )
+)
+```
+
+### Truncating collection
+```
+Map(
+  Paginate(Documents(Collection("Shelf"))),
+  Lambda("X", Delete(Var("X")))
 )
 ```

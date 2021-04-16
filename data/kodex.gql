@@ -4,9 +4,9 @@ enum ShelfScope {
 }
 
 type Author {
-    books: [Book!]!,
+    bookRefs: [Book!]!,
     name: String!,
-    series: [Series!]!,
+    seriesRefs: [Series!]!,
     dateBorn: Date,
     dateDied: Date,
     gender: String,
@@ -17,9 +17,9 @@ type Author {
 }
 
 type Book {
-    authors: [Author!]!,
-    series: [BookSeries!]!,
-    shelves: [Shelf!]!,
+    authorRefs: [Author!]!,
+    seriesRefs: [BookSeries!]!,
+    shelfRefs: [Shelf!]!,
     title: String!,
     descriptionFull: String!,
     descriptionShort: String,
@@ -41,15 +41,15 @@ type Book {
 }
 
 type BookList {
-    book: Book!,
-    position: Int!,
-    list: List!
+    bookRef: Book!,
+    listRef: List!,
+    position: Int!
 }
 
 type BookSeries {
-    book: Book!,
+    bookRef: Book!,
     position: Int!,
-    series: Series!
+    seriesRef: Series!
 }
 
 type List {
@@ -59,7 +59,7 @@ type List {
 
 type Review {
     isSpoiler: Boolean!,   
-    userBook: UserBook!,
+    userBookRef: UserBook!,
     body: String,
     dateAdded: Time,
     dateEnded: Time,
@@ -71,17 +71,17 @@ type Review {
 }
 
 type Series {
-    author: [Author!]!,
+    authorRefs: [Author!]!,
     title: String!,
     description: String,
     goodreadsId: String
 }
 
 type Shelf {
-    books: [Book!]!,
+    bookRefs: [Book!]!,
     name: String!,
-    type: ShelfType!,
-    userBooks: [UserBook!]!,
+    typeRef: ShelfType!,
+    userBookRefs: [UserBook!]!,
     goodreadsId: String
 }
 
@@ -99,14 +99,23 @@ type User {
 }
 
 type UserBook {
-    book: Book!,
-    shelves: [Shelf!]!,
-    user: User!
+    bookRef: Book!,
+    shelfRefs: [Shelf!]!,
+    userRef: User!
 }
 
 type Query {
    allReviews: [Review!]!
-   shelvesByGoodreadsId(goodreadsId: String): [Shelf!]!
-   shelvesByType(type: ShelfType): [Shelf!]!
+   authorByGoodreadsId(goodreadsId: String): Author
+   bookByGoodreadsId(goodreadsId: String): Book
+   shelfByGoodreadsId(goodreadsId: String): Shelf
+   shelfTypesByName(name: String): [ShelfType!]!
+   shelfTypesByScope(scope: ShelfScope): [ShelfType!]!
    reviewsByDateUpdated(dateUpdated: Time!): [Review!]!
 }
+
+CreateIndex({
+  name: "shelvesByType",
+  source: [Collection("Shelf")],
+  terms: [{ field: ["data", "typeRef"] }]
+})
